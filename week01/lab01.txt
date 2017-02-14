@@ -20,3 +20,4 @@ drwxr-xr-x  2 cesa.satria StafCS 4096 Feb 14 16:42 week09
 drwxr-xr-x  2 cesa.satria StafCS 4096 Feb 14 16:42 week10
 drwxr-xr-x  2 cesa.satria StafCS 4096 Feb 14 16:43 xtra
 /home/fasilkom/mahasiswa/c/cesa.satria/os171/week01
+Today is 14 Feb 2017 at 17:13:36
